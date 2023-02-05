@@ -3,7 +3,7 @@ A simple CLI interactive port scanner written in python
 
 
 
-#USAGE: 
+# USAGE: 
 sudo python3 ./CWR-Portscanner.py                             
 
 

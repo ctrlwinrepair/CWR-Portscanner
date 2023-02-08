@@ -7,4 +7,4 @@ A simple CLI interactive port scanner written in python
 sudo python3 ./CWR-Portscanner.py                             
 
 
-(Needs elevated privileges for nmap imported library)
+(Needs elevated privileges for nmap imported module)

@@ -13,7 +13,7 @@ $ python3
 
 ->->-> import nmap
 
-$ sudo python3 ./CWR-Portscanner.py                             
+$ python3 ./CWR-Portscanner.py                             
 
 
-(Needs elevated privileges for nmap imported module)
+(May need elevated privileges for nmap imported module)

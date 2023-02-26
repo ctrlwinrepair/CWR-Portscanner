@@ -1,5 +1,5 @@
 # CWR-Portscanner
-A simple CLI interactive port scanner written in python
+A simple CLI interactive port scanner written in python. Nothing fancy
 
 
 

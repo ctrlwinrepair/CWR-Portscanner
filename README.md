@@ -4,7 +4,7 @@ A simple CLI interactive port scanner written in python
 
 
 # USAGE: 
-Before running;
+Before running; make sure you have python3 installed
 
 
 $ python3

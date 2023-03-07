@@ -40,4 +40,4 @@ elif resp == '3':
     print(scanner[ip_addr].all_protocols())
     print("Open Ports: ", scanner[ip_addr]['tcp'].keys())
 elif resp >= '4':
-    print("Please entire a valid option!")
+    print("Please enter a valid option!")
